@@ -1,0 +1,11 @@
+Script started on 2021-11-11 04:18:22+0530
+]0;ashish@jarvis: ~/AE471A/yolov5[01;32mashish@jarvis[00m:[01;34m~/AE471A/yolov5[00m$ cd ..
+]0;ashish@jarvis: ~/AE471A[01;32mashish@jarvis[00m:[01;34m~/AE471A[00m$ pipenv shell
+/home/ashish/.local/lib/python3.6/site-packages/pkg_resources/__init__.py:119: PkgResourcesDeprecationWarning: 0.18ubuntu0.18.04.1 is an invalid version and will not be supported in a future release
+  PkgResourcesDeprecationWarning,
+[39m[22mShell for[39m[22m [32m[1m/home/ashish/.local/share/virtualenvs/AE471A-OgP83MuO[39m[22m [39m[1malready activated.[39m[22m
+No action taken to avoid nested environments.
+[0m]0;ashish@jarvis: ~/AE471A[01;32mashish@jarvis[00m:[01;34m~/AE471A[00m$ exit
+exit
+
+Script done on 2021-11-11 04:18:45+0530
